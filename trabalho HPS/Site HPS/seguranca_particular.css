@@ -1,0 +1,396 @@
+html {
+	background-color: rgba(35.00000171363354, 33.00000183284283, 100.00000163912773, 1);
+}
+.e1_2 {
+	background-color: rgba(35.00000171363354, 33.00000183284283, 100.00000163912773, 1);
+	width: 1440px;
+	height: 2108px;
+	position: absolute;
+}
+.cabecario {
+	background-color: #110011;
+	width: 132.2%;
+	height: 143px;
+	position: absolute;
+	left: -10px;
+	top: -10px;
+}
+.fundoblack {
+	background-color: #202021;
+	width: 133%;
+	height: 1242px;
+	position: absolute;
+	left: -22px;
+	top: 130px;
+}
+.amarelo {
+	background-color: rgba(225.21680295467377, 184.59438353776932, 123.66075441241264, 1);
+	width: 351px;
+	height: 45px;
+	position: absolute;
+	left: 150px;
+	top: 49px;
+	border-radius: 69px;
+}
+.e1_7 {
+	color: rgba(35.00000171363354, 33.00000183284283, 100.00000163912773, 1);
+	width: 254px;
+	height: 34px;
+	position: absolute;
+	left: 199px;
+	top: 55px;
+	font-family: Rokkitt;
+	text-align: left;
+	font-size: 26.9px;
+	letter-spacing: 0;
+}
+.e1_8 {
+	width: 117px;
+	height: 116px;
+	position: absolute;
+	left: 12px;
+	top: 14px;
+	border-top-left-radius: 50px;
+	border-top-right-radius: 50px;
+	border-bottom-left-radius: 50px;
+	border-bottom-right-radius: 50px;
+	background-image: url(seguran_a_25.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.voltar {
+	background-color: rgba(249.6875050663948, 249.6875050663948, 249.6875050663948, 1);
+	width: 193px;
+	height: 45px;
+	position: absolute;
+	left: 1620px;
+	top: 49px;
+	border-radius: 69px;
+}
+.e1_13 {
+	color: rgba(35.00000171363354, 33.00000183284283, 100.00000163912773, 1);
+	width: 76px;
+	height: 34px;
+	position: absolute;
+	left: 1675px;
+	top: 55px;
+	font-family: Rokkitt;
+	text-align: left;
+	font-size: 30px;
+	letter-spacing: 0;
+}
+.quadradoblack {
+	background-color: #1B1921;
+	width: 132.2%;
+	height: 541px;
+	position: absolute;
+	left: -10px;
+	top: 1567px;
+}
+
+.Serviços {
+	color: rgba(255, 255, 255, 1);
+	width: 142px;
+	height: 45px;
+	position: absolute;
+	left: 140px;
+	top: 1646px;
+	font-family: Rokkitt;
+	text-align: left;
+	font-size: 40px;
+	letter-spacing: 0;
+}
+
+.Institucional {
+	color: rgba(255, 255, 255, 1);
+	width: 205px;
+	height: 45px;
+	position: absolute;
+	left: 617px;
+	top: 1646px;
+	font-family: Rokkitt;
+	text-align: left;
+	font-size: 40px;
+	letter-spacing: 0;
+}
+
+.quadradoblack2 {
+	background-color: #0C0B0B;
+	width: 478px;
+	height: 684px;
+	position: absolute;
+	left: 1292px;
+	top: 1424px;
+}
+
+.e1_21 {
+	color: rgba(255, 255, 255, 1);
+	width: 497px;
+	height: 61px;
+	position: absolute;
+	left: 1280px;
+	top: 1624px;
+	font-family: Rokkitt;
+	text-align: center;
+	font-size: 48px;
+	letter-spacing: 0;
+}
+.e1_25 {
+	color: rgba(255, 255, 255, 1);
+	width: 497px;
+	height: 61px;
+	position: absolute;
+	left: 1280px;
+	top: 1757px;
+	font-family: Rokkitt;
+	text-align: center;
+	font-size: 48px;
+	letter-spacing: 0;
+}
+
+.e1_26 {
+	width: 307px;
+	height: 304px;
+	position: absolute;
+	left: 1370px;
+	top: 1373px;
+	background-image: url(logo.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.e1_27 {
+	color: rgba(77.1687899529934, 72.12304830551147, 241.15430295467377, 1);
+	width: 270px;
+	height: 39px;
+	position: absolute;
+	left: 1396px;
+	top: 1685px;
+	font-family: Rokkitt;
+	text-align: center;
+	font-size: 40px;
+	letter-spacing: 0;
+}
+.linkedin {
+	width: 90px;
+	height: 88px;
+	position: absolute;
+	left: 1590px;
+	top: 1840px;
+	background-image: url(linkidin.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.insta {
+	width: 85.05511474609375px;
+	height: 88px;
+	position: absolute;
+	left: 1480px;
+	top: 1840px;
+	background-image: url(instagram.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.Face{
+	width: 88px;
+	height: 88px;
+	position: absolute;
+	left: 1375px;
+	top: 1840px;
+	background-image: url(facebook.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.Monitoramento {
+	color: rgba(255, 255, 255, 1);
+	width: 339px;
+	height: 45px;
+	position: absolute;
+	left: 62px;
+	top: 1700px;
+	font-family: Rokkitt;
+	text-align: left;
+	font-size: 40px;
+	letter-spacing: 0;
+}
+
+.Quem_somos {
+	color: rgba(255, 255, 255, 1);
+	width: 215px;
+	height: 45px;
+	position: absolute;
+	left: 603px;
+	top: 1701px;
+	font-family: Rokkitt;
+	text-align: left;
+	font-size: 40px;
+	letter-spacing: 0;
+}
+
+.suporte {
+	color: rgba(255, 255, 255, 1);
+	width: 127px;
+	height: 45px;
+	position: absolute;
+	left: 603px;
+	top: 1753px;
+	font-family: Rokkitt;
+	text-align: left;
+	font-size: 40px;
+	letter-spacing: 0;
+}
+
+.particular {
+	color: rgba(255, 255, 255, 1);
+	width: 344px;
+	height: 45px;
+	position: absolute;
+	left: 62px;
+	top: 1832px;
+	font-family: Rokkitt;
+	text-align: left;
+	font-size: 40px;
+	letter-spacing: 0;
+}
+
+.Cameras {
+	color: rgba(255, 255, 255, 1);
+	width: 390px;
+	height: 45px;
+	position: absolute;
+	left: 62px;
+	top: 1762px;
+	font-family: Rokkitt;
+	text-align: left;
+	font-size: 40px;
+	letter-spacing: 0;
+}
+
+.img1 {
+	width: 30px;
+	height: 31px;
+	position: absolute;
+	left: 20px;
+	top: 1707px;
+	background-image: url(relogio_branco_1.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.img2 {
+	width: 34px;
+	height: 39px;
+	position: absolute;
+	left: 16px;
+	top: 1765px;
+	background-image: url(camera_1.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.img3 {
+	width: 34px;
+	height: 48px;
+	position: absolute;
+	left: 16px;
+	top: 1831px;
+	background-image: url(seguran_a_1.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.img4 {
+	width: 33px;
+	height: 29px;
+	position: absolute;
+	left: 558px;
+	top: 1708px;
+	background-image: url(quem_somos_1.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.img5 {
+	width: 26px;
+	height: 35px;
+	position: absolute;
+	left: 558px;
+	top: 1753px;
+	background-image: url(suporte_1.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.e1_41 {
+	transform: rotate(-0.000005008956538086317deg);
+	width: 1254px;
+	height: 0px;
+	position: absolute;
+	left: 30px;
+	top: 600px;
+}
+
+.e1_42 {
+	transform: rotate(-0.000005008956538086317deg);
+	width: 1254px;
+	height: 0px;
+	position: absolute;
+	left: 30px;
+	top: 1000px;
+}
+
+.e1_43 {
+	transform: rotate(-0.000005008956538086317deg);
+	width: 1254px;
+	height: 0px;
+	position: absolute;
+	left: 30px;
+	top: 200px;
+}
+.grid-container {
+	display: grid;
+	grid-template-columns: auto auto auto;
+	background-color: #202021;
+	position: relative;
+	top:7.5%;
+	left: 15%;
+	z-index: +10;
+  }
+  .grid-item {
+	background-color: #202021;
+	border: 10px solid #202021;
+	padding: 10px;
+	font-size: 30px;
+	text-align: center;
+	width: 400px;
+  }
+  .imagemimagememregado{
+	width: 300px;
+	height: 300px;
+	border-radius: 20px;
+  }
+.texto p{
+	color: #ffffff;
+	text-align: justify;
+	font-size: 30px;
+  }
+  ul{
+	color: #ffffff;
+	text-align: justify;
+	font-size: 25px;
+  }
+  .comprar {
+	background-color: #3E842D;
+	width: 289px;
+	height: 45px;
+	border-radius: 70px;
+}
+a{
+    text-decoration: none;
+    color:white;
+  }
+  a:hover {
+    background-color: #FAFAFA;
+    color:#232164;
+    border-radius: 5px;
+  }
